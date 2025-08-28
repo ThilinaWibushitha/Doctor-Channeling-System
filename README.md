@@ -1,5 +1,4 @@
 # Doctor-Channeling-System
-# Doctor Channelling System
 
 A comprehensive Java Swing application for managing doctor appointments, patient records, and medical scheduling.
 
